@@ -1,0 +1,11 @@
+.hover-effect:hover {
+  color: #0dcaf0 !important; /* Bootstrap cyan color */
+  transition: color 0.3s ease;
+}
+
+.transition {
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+html {
+  scroll-behavior: smooth;
+}
